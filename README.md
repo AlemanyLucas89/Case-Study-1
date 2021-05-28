@@ -1,1 +1,3 @@
 # Case-Study-1
+# Tarek
+Christian, Frank, possibly Ray, and myself are looking to create a Sentiment Scraper that utilizes Quiverquant's API, Alpaca API, Twitter data/API, Facebook data/API, and Stocktwits API. We will use this technology to track how the retail and institutional markets are currently trading 3 stocks/etf. We are only using 3 as a proof of concept with the idea this will be expanded to many more symbols. We are going to use one legacy blue chip stock such as a Coca Cola or Microsoft, the SPY ETF and one small cap tech stock to articulate the proof of concept of this project. Please advise if you have any major concerns, otherwise we will progress with this thesis.
